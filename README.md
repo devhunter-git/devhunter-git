@@ -1,6 +1,6 @@
 # 🛡️ Information Security & Systems Engineering
 
-### 👋 Welcome! Support the Mission, Fuel the Innovation
+### 👋 Welcome! Let's build a safer internet ecosystem
 
 [![Support via Saweria](https://img.shields.io/badge/Support-Saweria-orange?style=for-the-badge)](https://saweria.co/DevHunter)
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/devhunter-git)
