@@ -10,7 +10,7 @@
 **Your contributions directly fuel the maintenance of high-performance infrastructure and the continuous development of threat intelligence datasets.**
 
 <p align="left">
-  <img width="250" alt="Saweria QR Code" src="qris-donate.png.png" />
+  <img width="250" alt="Saweria QR Code" src="qris-donate.png" />
 </p>
 
 ---
